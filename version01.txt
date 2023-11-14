@@ -1,1 +1,2 @@
 This is the first feature of our application
+We have a bug fix in the development branch
